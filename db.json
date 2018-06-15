@@ -1,0 +1,51 @@
+{
+    "cars": [
+        { "id": 1,
+          "make": "Toyota",
+          "model": "Yaris"
+        },
+        { "id": 2,
+           "make": "Hyundai",
+           "model": "i20"
+        },
+        { "id": 3,
+          "make": "Hyundai",
+          "model": "i10"
+        },
+        { "id": 4,
+          "make": "Vauxhall",
+          "model": "Astra"
+        },
+        { "id": 5,
+          "make": "Kia",
+          "model": "Sportage"
+        },
+        { "id": 6,
+          "make": "Toyota",
+          "model": "Aygo"
+        },
+        { "id": 7,
+          "make": "Toyota",
+          "model": "Aygo"
+        },
+        { "id": 8,
+          "make": "Toyota",
+          "model": "Yaris"
+        },
+        { "id": 9,
+          "make": "Ford",
+          "model": "Focus"
+        },
+        { "id": 10,
+          "make": "Ford",
+          "model": "Fiesta"
+        }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "cars"
+    }
+  }
