@@ -1,28 +1,36 @@
-{
+{   "users": [
+
+    ],
     "cars": [
         { "id": 1,
           "make": "Toyota",
-          "model": "Yaris"
+          "model": "Yaris",
+          "color": "Navy"
         },
         { "id": 2,
            "make": "Hyundai",
-           "model": "i20"
+           "model": "i20",
+           "color": "White"
         },
         { "id": 3,
           "make": "Hyundai",
-          "model": "i10"
+          "model": "i10",
+          "color": "Red"
         },
         { "id": 4,
           "make": "Vauxhall",
-          "model": "Astra"
+          "model": "Astra",
+          "color": "Red"
         },
         { "id": 5,
           "make": "Kia",
-          "model": "Sportage"
+          "model": "Sportage",
+          "color": "Red"
         },
         { "id": 6,
           "make": "Toyota",
-          "model": "Aygo"
+          "model": "Aygo",
+          "color": "Blue"
         },
         { "id": 7,
           "make": "Toyota",
@@ -34,18 +42,14 @@
         },
         { "id": 9,
           "make": "Ford",
-          "model": "Focus"
+          "model": "Focus",
+          "color": "Blue"
         },
         { "id": 10,
           "make": "Ford",
-          "model": "Fiesta"
+          "model": "Fiesta",
+          "color": "Green"
         }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "cars"
-    }
+    ]
+
   }
