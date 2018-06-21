@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
+
+*, *::after, *::before {
+    box-sizing: inherit
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    box-sizing: border-box;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    background-color: #000;
+    color: white;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.searchcontainer {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+
+}
+
+#searchcar {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+#searchcar label {
+    font-weight: 700;
+}
+
+input[type="text"]{
+    font-weight: 700;
+
+}
