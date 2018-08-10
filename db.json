@@ -1,89 +1,99 @@
-{   "users": [
-      {
-        "id": 1,
-        "firstName": "Aimee",
-        "age": 33,
-        "country": "UK",
-        "carId": "1"
-      },
-      {
-        "id": 2,
-        "firstName": "Trevor",
-        "age": 62,
-        "country": "UK",
-        "carId": "4"
-      },
-      {
-        "id": 3,
-        "firstName": "Sam",
-        "age": 20,
-        "country": "UK",
-        "carId": "5"
-      },
-      {
-        "id": 4,
-        "firstName": "Tom",
-        "age": 19,
-        "country": "UK",
-        "carId": "1"
-      },
-      {
-        "id": 5,
-        "firstName": "Joe",
-        "age": 44,
-        "country": "UK",
-        "carId": "10"
-      }
-    ],
-    "cars": [
-        { "id": 1,
-          "make": "Toyota",
-          "model": "Yaris",
-          "color": "Navy"
-        },
-        { "id": 2,
-           "make": "Hyundai",
-           "model": "i20",
-           "color": "White"
-        },
-        { "id": 3,
-          "make": "Hyundai",
-          "model": "i10",
-          "color": "Red"
-        },
-        { "id": 4,
-          "make": "Vauxhall",
-          "model": "Astra",
-          "color": "Red"
-        },
-        { "id": 5,
-          "make": "Kia",
-          "model": "Sportage",
-          "color": "Red"
-        },
-        { "id": 6,
-          "make": "Toyota",
-          "model": "Aygo",
-          "color": "Blue"
-        },
-        { "id": 7,
-          "make": "Toyota",
-          "model": "Aygo"
-        },
-        { "id": 8,
-          "make": "Toyota",
-          "model": "Yaris"
-        },
-        { "id": 9,
-          "make": "Ford",
-          "model": "Focus",
-          "color": "Blue"
-        },
-        { "id": 10,
-          "make": "Ford",
-          "model": "Fiesta",
-          "color": "Green"
-        }
-    ]
-
-  }
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Aimee",
+      "age": 33,
+      "country": "UK",
+      "carId": "1"
+    },
+    {
+      "id": 2,
+      "firstName": "Trev",
+      "age": 62,
+      "country": "UK",
+      "carId": "4"
+    },
+    {
+      "id": 3,
+      "firstName": "Sam",
+      "age": 20,
+      "country": "UK",
+      "carId": "5"
+    },
+    {
+      "id": 5,
+      "firstName": "Joe",
+      "age": 44,
+      "country": "UK",
+      "carId": "10"
+    },
+    {
+      "firstName": "Jimmy",
+      "age": 35,
+      "email": "test@test.com",
+      "carId": "4",
+      "id": 6
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Yaris",
+      "color": "Navy"
+    },
+    {
+      "id": 2,
+      "make": "Hyundai",
+      "model": "i20",
+      "color": "White"
+    },
+    {
+      "id": 3,
+      "make": "Hyundai",
+      "model": "i10",
+      "color": "Red"
+    },
+    {
+      "id": 4,
+      "make": "Vauxhall",
+      "model": "Astra",
+      "color": "Red"
+    },
+    {
+      "id": 5,
+      "make": "Kia",
+      "model": "Sportage",
+      "color": "Red"
+    },
+    {
+      "id": 6,
+      "make": "Toyota",
+      "model": "Aygo",
+      "color": "Blue"
+    },
+    {
+      "id": 7,
+      "make": "Toyota",
+      "model": "Aygo"
+    },
+    {
+      "id": 8,
+      "make": "Toyota",
+      "model": "Yaris"
+    },
+    {
+      "id": 9,
+      "make": "Ford",
+      "model": "Focus",
+      "color": "Blue"
+    },
+    {
+      "id": 10,
+      "make": "Ford",
+      "model": "Fiesta",
+      "color": "Green"
+    }
+  ]
+}

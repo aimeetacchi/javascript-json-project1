@@ -1,6 +1,9 @@
 # javascript-json-project1
 JSON project
 
+// To run -
+install: npm --save json-server
+run: npm run json:server
 
 <!-- Ref -->
 routes you can use for this 
